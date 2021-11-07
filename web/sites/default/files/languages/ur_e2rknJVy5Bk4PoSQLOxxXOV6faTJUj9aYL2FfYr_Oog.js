@@ -1,0 +1,1 @@
+window.drupalTranslations = {"strings":{"":{"Home":"\u0645\u0631\u06a9\u0632","Next":"\u0627\u06af\u0644\u0627","closed":"\u0628\u0646\u062f \u06a9\u0631\u062f\u06cc \u06af\u0626","Save":"\u0645\u062d\u0641\u0648\u0638 \u06a9\u0631\u06cc\u06ba"}},"pluralFormula":{"1":0,"default":1}};
